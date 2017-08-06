@@ -1,1 +1,1 @@
-The sourcecode for the mod soulcraft yo
+The sourcecode for minecraft mod SoulCraft
